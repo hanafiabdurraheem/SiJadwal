@@ -1,0 +1,245 @@
+.pengaturan {
+  background-color: #1d1d1d;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.pengaturan .div {
+  background-color: #1d1d1d;
+  width: 430px;
+  height: 932px;
+  position: relative;
+}
+
+.pengaturan .overlap-group {
+  top: 230px;
+  position: absolute;
+  width: 400px;
+  height: 86px;
+  left: 15px;
+  background-color: #1f2937;
+}
+
+.pengaturan .text-wrapper {
+  position: absolute;
+  width: 127px;
+  top: 30px;
+  left: 70px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pengaturan .interface-weather {
+  position: absolute;
+  width: 38px;
+  height: 38px;
+  top: 25px;
+  left: 11px;
+}
+
+.pengaturan .group {
+  width: 36px;
+  left: 1px;
+  position: absolute;
+  height: 36px;
+  top: 1px;
+}
+
+.pengaturan .overlap {
+  top: 318px;
+  position: absolute;
+  width: 400px;
+  height: 86px;
+  left: 15px;
+  background-color: #1f2937;
+}
+
+.pengaturan .interface-file {
+  top: 27px;
+  position: absolute;
+  width: 38px;
+  height: 38px;
+  left: 11px;
+}
+
+.pengaturan .img {
+  width: 28px;
+  left: 5px;
+  position: absolute;
+  height: 36px;
+  top: 1px;
+}
+
+.pengaturan .text-wrapper-2 {
+  position: absolute;
+  width: 127px;
+  top: 32px;
+  left: 69px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pengaturan .overlap-2 {
+  top: 406px;
+  position: absolute;
+  width: 400px;
+  height: 86px;
+  left: 15px;
+  background-color: #1f2937;
+}
+
+.pengaturan .group-wrapper {
+  top: 29px;
+  position: absolute;
+  width: 38px;
+  height: 38px;
+  left: 11px;
+}
+
+.pengaturan .text-wrapper-3 {
+  position: absolute;
+  width: 127px;
+  top: 34px;
+  left: 69px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pengaturan .overlap-3 {
+  top: 494px;
+  position: absolute;
+  width: 400px;
+  height: 86px;
+  left: 15px;
+  background-color: #1f2937;
+}
+
+.pengaturan .interface-time-alarm {
+  position: absolute;
+  width: 38px;
+  height: 38px;
+  top: 21px;
+  left: 14px;
+}
+
+.pengaturan .group-2 {
+  width: 34px;
+  left: 2px;
+  position: absolute;
+  height: 36px;
+  top: 1px;
+}
+
+.pengaturan .text-wrapper-4 {
+  position: absolute;
+  width: 127px;
+  top: 26px;
+  left: 70px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pengaturan .overlap-4 {
+  top: 582px;
+  position: absolute;
+  width: 400px;
+  height: 86px;
+  left: 15px;
+  background-color: #1f2937;
+}
+
+.pengaturan .interface-user {
+  position: absolute;
+  width: 38px;
+  height: 38px;
+  top: 23px;
+  left: 15px;
+}
+
+.pengaturan .group-3 {
+  width: 35px;
+  left: 2px;
+  position: absolute;
+  height: 36px;
+  top: 1px;
+}
+
+.pengaturan .text-wrapper-5 {
+  position: absolute;
+  width: 127px;
+  top: 28px;
+  left: 70px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pengaturan .text-wrapper-6 {
+  position: absolute;
+  width: 243px;
+  top: 134px;
+  left: 24px;
+  font-family: "Poppins-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pengaturan .line {
+  position: absolute;
+  width: 379px;
+  height: 3px;
+  top: 221px;
+  left: 26px;
+  background-image: url(../img/line.png);
+}
+
+.pengaturan .tambah {
+  display: flex;
+  width: 154px;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 10px 24px;
+  position: absolute;
+  top: 795px;
+  left: 24px;
+  background-color: #fe5254;
+  border-radius: 16px;
+}
+
+.pengaturan .tambah-2 {
+  position: relative;
+  width: fit-content;
+  font-family: "Poppins-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 18px;
+  white-space: nowrap;
+}
