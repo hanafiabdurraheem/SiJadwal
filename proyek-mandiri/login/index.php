@@ -83,7 +83,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
       <div class="text-wrapper-5">Silahkan login!</div>
       <div class="signup-wrapper">
         <span class="text-wrapper-6">Belum punya akun? </span>
-        <a href="registrasi.php" class="sign-up">Sign Up</a>
+        <a href="../index.php" class="sign-up">Sign Up</a>
       </div>
 
 
